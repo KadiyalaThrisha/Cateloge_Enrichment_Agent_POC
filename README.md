@@ -27,17 +27,6 @@ Python **FastAPI** microservice plus **Streamlit** and **React (Vite)** UIs for 
 
 Full architecture and env vars: **[`HANDOFF.md`](HANDOFF.md)**.
 
-## Security before GitHub
-
-- **Never commit** `.env` — it is listed in `.gitignore`.  
-- Do not paste API keys into tracked files; use `.env` or your host’s secret store.  
-- If a key was ever committed, **rotate** it in the provider console and rewrite git history if needed.
-
-### Before `git add` / `git commit`
-
-Run `git status` — **`.env` must not** appear under “Changes to be committed”. After staging, `git diff --cached --name-only` must not list `.env`.
-
-If your local `.env` ever contained real keys that were shared or copied, **rotate those keys** in the Groq (and any other) dashboards even if `.env` stayed untracked.
 
 ## Repo layout (high level)
 
