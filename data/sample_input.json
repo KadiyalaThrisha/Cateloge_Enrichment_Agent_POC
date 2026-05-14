@@ -1,0 +1,175 @@
+[
+  {
+    "asin": "APPAREL_WOMEN_001",
+    "title": "Women's Pink Cotton Kurti Printed Casual Wear Size M",
+    "description": "Comfortable cotton kurti suitable for daily wear. Lightweight and breathable fabric.",
+    "features": [
+      "100% Cotton",
+      "Regular fit",
+      "3/4th sleeves",
+      "Printed design"
+    ],
+    "images": [
+      {
+        "hi_res": "https://images-na.ssl-images-amazon.com/images/I/41v194eShxL.jpg"
+      }
+    ],
+    "price": 799.0,
+    "brand": "Generic",
+    "categories": [
+      "Clothing",
+      "Women",
+      "Ethnic Wear",
+      "Kurtis"
+    ]
+  },
+  {
+    "asin": "MOBILE123",
+    "title": "Samsung Galaxy M32 Blue 6GB RAM 128GB Storage",
+    "description": "Powerful smartphone with AMOLED display",
+    "features": [
+      "6GB RAM",
+      "128GB Storage",
+      "6000mAh battery"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/61O45C5qASL._AC_SL1000_.jpg"
+    ],
+    "price": 14999,
+    "brand": "Samsung",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  },
+  {
+    "asin": "FOOTWEAR_MEN_001",
+    "title": "Men's Black Running Shoes Lightweight Mesh Size 10",
+    "description": "Cushioned sole for daily jogging. Breathable mesh upper.",
+    "features": [
+      "Rubber outsole",
+      "Lace-up closure",
+      "Padded collar"
+    ],
+    "images": [
+      {
+        "hi_res": "https://m.media-amazon.com/images/I/61nju7oPNDL._AC_UL1000_.jpg"
+      }
+    ],
+    "price": 2499.0,
+    "brand": "StrideFit",
+    "categories": [
+      "Footwear",
+      "Men",
+      "Sports Shoes",
+      "Running"
+    ]
+  },
+  {
+    "asin": "APPAREL_MEN_002",
+    "title": "Men's Blue Cotton T-Shirt Half Sleeve Round Neck Size L",
+    "description": "Soft cotton tee for casual wear. Machine washable.",
+    "features": [
+      "100% Cotton",
+      "Regular fit",
+      "Half sleeves"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/71example-tee.jpg"
+    ],
+    "price": 449.0,
+    "brand": "UrbanBasics",
+    "categories": [
+      "Clothing",
+      "Men",
+      "T-Shirts"
+    ]
+  },
+  {
+    "asin": "MOBILE456",
+    "title": "Redmi Note 12 Black 5G 8GB RAM 256GB Storage",
+    "description": "Fast 5G smartphone with AMOLED display and long-lasting battery.",
+    "features": [
+      "8GB RAM",
+      "256GB Storage",
+      "5000mAh battery",
+      "120Hz display"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/61example-redmi.jpg"
+    ],
+    "price": 17999.0,
+    "brand": "Redmi",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  },
+  {
+    "asin": "APPAREL_WOMEN_002",
+    "title": "Women's Green Anarkali Kurta Rayon Printed Size L",
+    "description": "Elegant Anarkali kurta perfect for festive and casual occasions.",
+    "features": [
+      "Rayon fabric",
+      "Flared design",
+      "Full sleeves",
+      "Printed pattern"
+    ],
+    "images": [
+      {
+        "hi_res": "https://m.media-amazon.com/images/I/71example-anarkali.jpg"
+      }
+    ],
+    "price": 1299.0,
+    "brand": "EthnicAura",
+    "categories": [
+      "Clothing",
+      "Women",
+      "Ethnic Wear",
+      "Kurtas"
+    ]
+  },
+  {
+    "asin": "FOOTWEAR_WOMEN_001",
+    "title": "Women's White Casual Sneakers Lightweight Size 7",
+    "description": "Stylish and comfortable sneakers suitable for daily wear.",
+    "features": [
+      "PU sole",
+      "Lace-up closure",
+      "Lightweight design"
+    ],
+    "images": [
+      {
+        "hi_res": "https://m.media-amazon.com/images/I/61example-sneakers.jpg"
+      }
+    ],
+    "price": 1999.0,
+    "brand": "StepStyle",
+    "categories": [
+      "Footwear",
+      "Women",
+      "Sneakers",
+      "Casual Shoes"
+    ]
+  },
+  {
+    "asin": "MOBILE789",
+    "title": "iQOO Z9 Red 8GB RAM 128GB Storage",
+    "description": "Gaming-focused smartphone with fast charging and smooth performance.",
+    "features": [
+      "8GB RAM",
+      "128GB Storage",
+      "Turbo charging",
+      "120Hz refresh rate"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/61example-iqoo.jpg"
+    ],
+    "price": 20999.0,
+    "brand": "iQOO",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  }
+]

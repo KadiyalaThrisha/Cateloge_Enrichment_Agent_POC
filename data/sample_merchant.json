@@ -1,0 +1,15 @@
+[
+  {
+    "sku": "MERCH-SHOE-01",
+    "product_name": "Running Shoe Pro Mesh",
+    "long_description": "Lightweight daily trainer for road runs.",
+    "bullet_points": ["Breathable mesh upper", "Rubber outsole"],
+    "price": "79,99",
+    "image_urls": [
+      "https://cdn.example.com/products/merch-shoe-01/front.jpg"
+    ],
+    "brand": "RunCo",
+    "category_path": "Footwear > Sports > Running",
+    "source_system": "merchant_feed"
+  }
+]

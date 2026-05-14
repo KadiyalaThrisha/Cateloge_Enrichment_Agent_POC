@@ -1,0 +1,198 @@
+[
+  {
+    "asin": "MOBILE001",
+    "title": "Samsung Galaxy M14 Blue 6GB RAM 128GB Storage",
+    "description": "5G smartphone with long battery life and smooth display.",
+    "features": [
+      "6GB RAM",
+      "128GB Storage",
+      "6000mAh battery"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/mobile-blue-1.jpg"
+    ],
+    "price": 14999.0,
+    "brand": "Samsung",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  },
+  {
+    "asin": "MOBILE002",
+    "title": "Samsung Galaxy M14 Black 6GB RAM 128GB Storage",
+    "description": "5G smartphone with long battery life and smooth display.",
+    "features": [
+      "6GB RAM",
+      "128GB Storage",
+      "6000mAh battery"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/mobile-black-1.jpg"
+    ],
+    "price": 14999.0,
+    "brand": "Samsung",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  },
+  {
+    "asin": "MOBILE003",
+    "title": "Samsung Galaxy M14 Green 6GB RAM 128GB Storage",
+    "description": "5G smartphone with long battery life and smooth display.",
+    "features": [
+      "6GB RAM",
+      "128GB Storage",
+      "6000mAh battery"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/mobile-green-1.jpg"
+    ],
+    "price": 14999.0,
+    "brand": "Samsung",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  },
+  {
+    "asin": "SHOE001",
+    "title": "Men's Running Shoes Black Mesh Lace-Up Size 9",
+    "description": "Comfortable running shoes with breathable mesh upper.",
+    "features": [
+      "Mesh upper",
+      "Rubber sole",
+      "Lightweight design"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/shoe-black-1.jpg"
+    ],
+    "price": 2299.0,
+    "brand": "StrideFit",
+    "categories": [
+      "Footwear",
+      "Men",
+      "Running Shoes"
+    ]
+  },
+  {
+    "asin": "SHOE002",
+    "title": "Men's Running Shoes Blue Mesh Lace-Up Size 9",
+    "description": "Comfortable running shoes with breathable mesh upper.",
+    "features": [
+      "Mesh upper",
+      "Rubber sole",
+      "Lightweight design"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/shoe-blue-1.jpg"
+    ],
+    "price": 2299.0,
+    "brand": "StrideFit",
+    "categories": [
+      "Footwear",
+      "Men",
+      "Running Shoes"
+    ]
+  },
+  {
+    "asin": "SHOE003",
+    "title": "Men's Running Shoes Red Mesh Lace-Up Size 9",
+    "description": "Comfortable running shoes with breathable mesh upper.",
+    "features": [
+      "Mesh upper",
+      "Rubber sole",
+      "Lightweight design"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/shoe-red-1.jpg"
+    ],
+    "price": 2299.0,
+    "brand": "StrideFit",
+    "categories": [
+      "Footwear",
+      "Men",
+      "Running Shoes"
+    ]
+  },
+  {
+    "asin": "APPAREL001",
+    "title": "Women's Cotton Kurti Pink Printed Size M",
+    "description": "Soft cotton kurti suitable for daily casual wear.",
+    "features": [
+      "100% Cotton",
+      "Printed design",
+      "Regular fit"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/kurti-pink-1.jpg"
+    ],
+    "price": 899.0,
+    "brand": "EthnicAura",
+    "categories": [
+      "Clothing",
+      "Women",
+      "Kurtis"
+    ]
+  },
+  {
+    "asin": "APPAREL002",
+    "title": "Women's Cotton Kurti Blue Printed Size M",
+    "description": "Soft cotton kurti suitable for daily casual wear.",
+    "features": [
+      "100% Cotton",
+      "Printed design",
+      "Regular fit"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/kurti-blue-1.jpg"
+    ],
+    "price": 899.0,
+    "brand": "EthnicAura",
+    "categories": [
+      "Clothing",
+      "Women",
+      "Kurtis"
+    ]
+  },
+  {
+    "asin": "APPAREL003",
+    "title": "Women's Cotton Kurti Green Printed Size M",
+    "description": "Soft cotton kurti suitable for daily casual wear.",
+    "features": [
+      "100% Cotton",
+      "Printed design",
+      "Regular fit"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/kurti-green-1.jpg"
+    ],
+    "price": 899.0,
+    "brand": "EthnicAura",
+    "categories": [
+      "Clothing",
+      "Women",
+      "Kurtis"
+    ]
+  },
+  {
+    "asin": "MOBILE004",
+    "title": "Redmi Note 13 White 8GB RAM 256GB Storage",
+    "description": "High-performance smartphone with AMOLED display and fast charging.",
+    "features": [
+      "8GB RAM",
+      "256GB Storage",
+      "5000mAh battery"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/mobile-white-1.jpg"
+    ],
+    "price": 18999.0,
+    "brand": "Redmi",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ]
+  }
+]

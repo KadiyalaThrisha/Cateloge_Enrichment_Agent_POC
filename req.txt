@@ -1,0 +1,23 @@
+# Catalog enrichment — install from repo root: pip install -r req.txt
+#
+# Core: FastAPI service, CLI, in-process Supervisor
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.7,<3
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+
+# LLM: Groq client (family name, variant axes, color LLM paths)
+groq>=0.4,<1
+
+# Streamlit dashboard (app/ui/review_dashboard.py)
+streamlit>=1.30,<2
+
+# Attributes: color normalization (app/services/attribute_service.py, llm_color)
+webcolors>=24.0,<25
+
+# Shoe image color fallback (color_map_shoes_clean.py — optional if you only use text color)
+numpy>=1.26,<3
+Pillow>=10.0,<12
+scikit-learn>=1.4,<2
+tqdm>=4.66,<5
